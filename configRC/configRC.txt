@@ -1,0 +1,23 @@
+#canal 1 - Left/Right right stick
+
+min 981
+
+max 1948
+
+#canal 2 - Up/Down right stick
+
+min 985
+
+max 1965
+
+#canal 3 - Up/Down left stick
+
+min 985
+
+max 1968
+
+#canal 4 - Left/Right left stick
+
+min 991
+
+max 1961
